@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Havana",
+  "base_artist": "Camila Cabello",
+  "createdAt": "2025-12-23T17:00:21.854235Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Little Havana",
+      "artist": "Nebu Kiniza",
+      "has_synced": false,
+      "path": "select/01_Little_Havana_Nebu_Kiniza.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Vladimir Goes To Havana",
+      "artist": "The Stranglers",
+      "has_synced": false,
+      "path": "select/02_Vladimir_Goes_To_Havana_The_Stranglers.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Havana Affair",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/03_Havana_Affair_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Havana (feat. Young Thug)",
+      "artist": "Camila Cabello feat. Young Thug",
+      "has_synced": true,
+      "path": "select/04_Havana_(feat._Young_Thug)_Camila_Cabello_feat._Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Havana",
+      "artist": "Camila Cabello feat. Young Thug",
+      "has_synced": true,
+      "path": "select/05_Havana_Camila_Cabello_feat._Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Havana (Live)",
+      "artist": "Camila Cabello",
+      "has_synced": true,
+      "path": "select/06_Havana_(Live)_Camila_Cabello.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Havana Affair",
+      "artist": "Ramones",
+      "has_synced": true,
+      "path": "select/07_Havana_Affair_Ramones.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Havana Affair",
+      "artist": "The Ramones",
+      "has_synced": true,
+      "path": "select/08_Havana_Affair_The_Ramones.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Radio Havana",
+      "artist": "Rancid",
+      "has_synced": true,
+      "path": "select/09_Radio_Havana_Rancid.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "This Ain't Havana",
+      "artist": "Ramones",
+      "has_synced": true,
+      "path": "select/10_This_Ain't_Havana_Ramones.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "This Ain’t Havana",
+      "artist": "Ramones",
+      "has_synced": true,
+      "path": "select/11_This_Ain’t_Havana_Ramones.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Havana Moon",
+      "artist": "Chuck Berry",
+      "has_synced": true,
+      "path": "select/12_Havana_Moon_Chuck_Berry.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Three Weeks In Havana",
+      "artist": "Blake Mills",
+      "has_synced": false,
+      "path": "select/13_Three_Weeks_In_Havana_Blake_Mills.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Havana",
+      "artist": "Camila Cabello",
+      "has_synced": false,
+      "path": "select/pl_01_Havana_Camila_Cabello.txt"
+    }
+  ]
+}
